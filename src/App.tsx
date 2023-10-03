@@ -1,5 +1,5 @@
 import { Routes, Route } from "react-router-dom";
-import { Container, Nav } from "react-bootstrap";
+import { Container } from "react-bootstrap";
 import { Home } from "./pages/Home.tsx";
 import { Store } from "./pages/Store.tsx";
 import { About } from "./pages/About.tsx";
